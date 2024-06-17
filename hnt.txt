@@ -1,0 +1,14 @@
+<>
+      <div className="">
+        <div className="m-8 flex items-center justify-center gap-4 text-2xl">
+          <Icons />
+        </div>
+      </div>
+      <div className="block mr-auto ml-auto mt-12 w-17">
+        <img
+          className="block mr-auto ml-auto mt-12 w-1/3"
+          src={Obi}
+          alt="Team Logo"
+        />
+      </div>
+    </>
