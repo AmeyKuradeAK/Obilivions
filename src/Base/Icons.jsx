@@ -4,11 +4,11 @@ import { FaSquareXTwitter } from "react-icons/fa6";
 
 const Icons = () => {
   return (
-    <div className="absolute bottom-[200px] left-[1250px]">
-        <FaInstagram className="h-[60px] w-[60px] fill-[#200636] mb-10" />
-        <FaFacebook className="h-[60px] w-[60px] fill-[#200636] mb-10" />
-        <FaSquareXTwitter className="h-[60px] w-[60px] fill-[#200636]  mb-10" />
-        <FaLinkedin className="h-[60px] w-[60px] fill-[#200636] mb-10" />
+    <div className="">
+        <FaInstagram className="fill-[#200636]" />
+        <FaFacebook className="fill-[#200636]" />
+        <FaSquareXTwitter className="fill-[#200636]" />
+        <FaLinkedin className="fill-[#200636]" />
     </div>
   );
 };
