@@ -9,6 +9,8 @@ export default {
     extend: {
       colors: {
         'navbar':'#F1ECD3',
+        'navbar-2': '#989C94',
+        'navbar-3' : '#E3E7D3'
       },
       fontFamily: {
         'Main': 'Alumni Sans Inline One'

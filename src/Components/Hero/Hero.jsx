@@ -1,11 +1,12 @@
 import React from "react";
 import Obi from "../../Images/Obi.jpg";
-import Navbar from "./Navbar";
+import Navbar from "./Navdemo";
+import Navdemo from "./Navdemo";
 
 const Hero = () => {
   return (
     <div>
-      <Navbar />
+      <Navdemo />
     </div>
   );
 };
